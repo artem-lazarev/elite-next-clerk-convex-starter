@@ -4,7 +4,9 @@ A modern, production-ready SaaS starter template for building full-stack applica
 
 [🌐 Live Demo](https://elite-next-clerk-convex-starter.vercel.app/) – Try the app in your browser!
 
-[🎥 How this template was made](https://www.youtube.com/watch?v=TU_sdT7YylQ) – Watch the build video
+### 🎥 How this template was made
+
+[![Watch the video](https://img.youtube.com/vi/TU_sdT7YylQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_sdT7YylQ)
 
 
 ## Features
